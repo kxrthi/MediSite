@@ -17,4 +17,4 @@ He/She can also write email elaborating the issue. This helps people who cannot 
 
 This project has been deployed in Azure.
 
-Deplued link:https://black-sky-06833bc10.1.azurestaticapps.net
+Deployed link:https://black-sky-06833bc10.1.azurestaticapps.net
