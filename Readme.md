@@ -1,6 +1,8 @@
 <h1> Future Ready Talent</h1>
 
 
+<h2><u>Developer - Karthik V Rao</u></h2>
+
 <h2><u>DESCRIPTION</u></h2>
 
 I have created a web application called MediSite using CSS, HTML, JavaScript.
@@ -11,7 +13,8 @@ Suppose we need a certain treatment, usually we need to travel a long distance t
 This is both time consuming and risky. Instead, using the site, we can go to laboratory section to know which treatments are available in the hospital and then decide. 
 This reduces any risk of exposure in these pandemic times. Since the project is already deployed, anyone with the link can access the site from anywhere.
 Any user can also contact the staff using the number or email. 
-He/She can also write email elaborating the issue. This helps people who cannot physically come to the hospital.
+He/She can also write email elaborating the issue.
+This helps people who cannot physically come to the hospital.
 
 
 <h2><u>Azure</u></h2>
