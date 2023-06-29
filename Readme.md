@@ -24,3 +24,6 @@ This project has been deployed in Azure.
 Deployed link:https://black-sky-06833bc10.1.azurestaticapps.net
 
 Note:If the link doesn't work,it means my azure student subscription has ended.
+
+##Screenshots
+
