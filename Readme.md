@@ -1,5 +1,6 @@
 <h1> Future Ready Talent</h1>
 
+
 <h2><u>DESCRIPTION</u></h2>
 
 I have created a web application called MediSite using CSS, HTML, JavaScript.
@@ -18,3 +19,5 @@ He/She can also write email elaborating the issue. This helps people who cannot 
 This project has been deployed in Azure.
 
 Deployed link:https://black-sky-06833bc10.1.azurestaticapps.net
+
+Note:If the link doesn't work,it means my azure student subscription has ended.
